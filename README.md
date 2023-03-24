@@ -4,17 +4,19 @@
 
 # This repository contains:
 
-* Homework 8
+# Homework 8
 
-coin flip.py [Python] flipping a coin with a known true probability of landing heads, and then calculates the posterior distribution for the parameter that defines this probability, using a Bayesian approach
+* coin flip.py [Python] flipping a coin with a known true probability of landing heads, and then calculates the posterior distribution for the parameter that defines this probability, using a Bayesian approach
 
-coin flip figure.png
+* coin flip figure.png
 
-* Homework 9
+# Homework 9
 
-coin flip.py [Python] 
+* Quadratic function.py [Python]
 
-coin flip figure.png
+* Quadratic function to minimize.png
+
+* Quadratic function with minimium.png
 
 # Implementation
 
@@ -26,7 +28,7 @@ sympy (python)
 
 
 
-coin flip.py
+coin flip.py and Quadratic function.py
 
 can be run from the Command/Terminal line by typing:
 
