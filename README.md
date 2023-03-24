@@ -5,11 +5,15 @@
 # This repository contains:
 
 * Homework 8
+
 coin flip.py [Python] flipping a coin with a known true probability of landing heads, and then calculates the posterior distribution for the parameter that defines this probability, using a Bayesian approach
+
 coin flip figure.png
 
 * Homework 9
+
 coin flip.py [Python] 
+
 coin flip figure.png
 
 # Implementation
