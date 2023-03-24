@@ -34,5 +34,7 @@ can be run from the Command/Terminal line by typing:
 
 <> python coin flip.py 
 
+<> Quadratic function.py 
+
 
 This requires a working Python distribution (so that the python executable exists) with the Python packages numpy, sympy, scipy.integrate and Matplotlib also installed.
